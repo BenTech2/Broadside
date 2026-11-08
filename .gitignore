@@ -1,0 +1,6 @@
+# build output
+*.pdx
+*.pdx.zip
+# SDK font, copied in from the Playdate SDK by build.sh
+source/fonts/
+.DS_Store
